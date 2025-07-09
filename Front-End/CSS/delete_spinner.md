@@ -1,6 +1,6 @@
 ## input type number 중 spinner 제거
 
-```tsx
+```css
 /* 웹킷 기반 브라우저 (Chrome, Safari 등)*/
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
